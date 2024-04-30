@@ -1,5 +1,8 @@
 # Todo List 
 
+### This is the improved version of previously created todo-list. New feature is added. Now you can have track of completed task. Main feature of this todo list is that we have used localStorage to save the data without need of any backend.
+##### Below is the sreenshot of project
+
 ![image](https://github.com/skp3214/list-todo/assets/95349420/12fa0933-e15a-4b62-8618-63d80ba0dcc2)
 
 ![Screenshot (774)](https://github.com/skp3214/list-todo/assets/95349420/d70c5cf2-0501-4c72-b215-d7ff3a541e05)
